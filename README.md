@@ -1,12 +1,12 @@
 # Introduction to Computer Security
 
-## CECS 478: Section 1 (5185)
+## CECS 478: Section 2 (9487)
 
 ### Fall 2023
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
-| Mon Wed       | 11:00 AM - 12:15 PM | ECS-308 |
+| Tu Th         | 12:30 PM - 1:45 PM  | HC-120  |
 
 | Instructor        | Email                       | Office  | Office Hours               |
 |-------------------|-----------------------------|---------|----------------------------|
